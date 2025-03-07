@@ -1,14 +1,7 @@
 ---
 title: "limon persa"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
 ---
 
+## El limon persa es un cultivo de gran importancia
 
+listing: contents: posts sort: "date desc" type: default categories: true sort-ui: false filter-ui: false page-layout: full title-block-banner: true ---

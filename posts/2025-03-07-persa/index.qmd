@@ -5,16 +5,13 @@ date: "2025-03-07 "
 ---
 
 **El Huanglongbing amenaza importante para la lima persa en Martínez de la Torre**
-  
-La lima persa (*Citrus latifolia* T.) es un cultivo perenne de larga vida hortícola. A  nivel internacional, la citricultura es una actividad que genera una parte importante de los empleos del sector agrícola nacional y una fuerte derrama económica de comercio internacional, el cierre de la producción agrícola de 2022, mostró que se ha sembrado un total de 109,682 ha de limón Persa y de estas, se han cosechado 103,946 ha, las cuales producen 1,574,723 toneladas por año, con un rendimiento promedio de 15.29 toneladas por hectárea, generando un valor de 11,271,431.26 millones de pesos mexicanos (SIAP, 2022).
 
+La lima persa (*Citrus latifolia* T.) es un cultivo perenne de larga vida hortícola. A nivel internacional, la citricultura es una actividad que genera una parte importante de los empleos del sector agrícola nacional y una fuerte derrama económica de comercio internacional, el cierre de la producción agrícola de 2022, mostró que se ha sembrado un total de 109,682 ha de limón Persa y de estas, se han cosechado 103,946 ha, las cuales producen 1,574,723 toneladas por año, con un rendimiento promedio de 15.29 toneladas por hectárea, generando un valor de 11,271,431.26 millones de pesos mexicanos (SIAP, 2022).
 
+![](Lima%20persa.jpg)
 
-![](Lima persa.jpg)
-
-:::{style="font-size:50%;color:green; font-family: herlevtica;font-size:44px;"}
-
-
+::: {style="font-size:50%;color:green; font-family: herlevtica;font-size:44px;"}
 ![](VTC.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+:::

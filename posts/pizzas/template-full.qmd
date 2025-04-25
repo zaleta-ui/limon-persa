@@ -9,7 +9,7 @@ author:
     affiliations:
       - name: CEMFI
 abstract: |
-  {{< lipsum 1 >}}
+  Las masa de pizza de Marcelo x
 thanks: |
   This template is inspired by Kieran Healy's [LaTeX and Rmd template](https://github.com/kjhealy/latex-custom-kjh) and
   Andrew Heiss's [Hikmah Quarto template](https://github.com/andrewheiss/hikmah-academic-quarto).

@@ -1,19 +1,19 @@
 ---
-title: Quarto Academic Typst
-subtitle: A Minimalistic Quarto + Typst Template for Academic Writing
+title: Analizando el tiempo de cocción de las pizzas
+subtitle: La ciencia y la cocina de la mano
 header: Please click [HERE](https://kazuyanagimoto.com/quarto-academic-typst/template-full.pdf) for the latest version.
 author:
-  - name: Kazuharu Yanagimoto
-    email: kazuharu.yanagimoto@cemfi.edu.es
-    orcid: 0009-0007-1967-8304
+  - name: Katya Zaleta
+    email: katyazasa@gmail.com
+    orcid: 0009-0008-5018-7332
     affiliations:
       - name: CEMFI
 abstract: |
-  Las masa de pizza de Marcelo x
+  
 thanks: |
   This template is inspired by Kieran Healy's [LaTeX and Rmd template](https://github.com/kjhealy/latex-custom-kjh) and
   Andrew Heiss's [Hikmah Quarto template](https://github.com/andrewheiss/hikmah-academic-quarto).
-keywords: [Quarto, Typst, format]
+keywords: [Q, Typst, format]
 custom-keywords:
   - name: JEL Codes
     values: [J16, J22, J31]    
@@ -40,6 +40,9 @@ I use the Palmer penguins dataset [@horst2020] to demonstrate the features of th
 The code is available [here](https://kazuyanagimoto.com/quarto-academic-typst/template-full.qmd).
 
 ```{r}
+#| label: bibliotecas-inicio
+#| warning: false
+
 library(palmerpenguins)
 library(dplyr)
 library(ggplot2)
@@ -47,6 +50,7 @@ library(patchwork)
 library(tinytable)
 library(modelsummary)
 library(showtext)
+library (stringr)
 ```
 
 ```{r}
@@ -97,7 +101,15 @@ theme_quarto <- function(font_title = font_base_regular,
 }
 ```
 
-# Section as Heading Level 1
+# Datos
+```{r}
+library(stringr)
+url_datos <- "https://drive.google.com/file/d/1uVUOqwobv67E5xTsSSxjg9f9qypW-aIS/view?usp=sharing"
+dat_datos_id <- str_extract(url_datos, "(?<=d/)(.*)(?=/view)")
+
+url_drive <- "https://docs.google.com/uc?id=%s&export=download" 
+datos <- read.csv(sprintf(url_drive, dat_datos_id)) 
+```
 
 Section numbering can be specified in the YAML `section-numbering` field
 as other Typst templates.

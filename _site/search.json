@@ -1,9 +1,44 @@
 [
   {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "limon persa",
     "section": "",
-    "text": "Quarto Academic Typst\n\n\nA Minimalistic Quarto + Typst Template for Academic Writing\n\n\nLas masa de pizza de Marcelo x \n\n\n\n\n\nApr 25, 2025\n\n\nKazuharu Yanagimoto\n\n\n\n\n\n\n\n\n\n\n\n\nLimón persa al descubierto: sus características y los problemas que enfrenta\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2025\n\n\nKatya Zaleta\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 25, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Caracterización molecular de la familia de genes en lima Persa\n\n\nUn acercamiento a la tolerancia del huanglongbing\n\n\nUn análisis transcriptómico en limón Persa implicado en la respuesta al Huanglongbing reveló 8 transcritos de tipo AP2, 3 transcritos tipo RAV, 1 transcrito Soloist y 47 transcritos tipo ERF (Ethylene Response factor). El análisis filogenético se dividió en 4 grupos visualmente distinguibles, el primer perteneciente a la familia AP2, el segundo agrupo a miembros de la subfamilia RAV, el tercero a proteínas Soloist y finalmente en el cuarto a las proteínas ERF, las cuales se agruparon en doce sub-grupos (I, II, III, IV, V, VI, VI-L, VII, VIII, IX, X y Xb-L). \n\n\n\n\n\nApr 25, 2025\n\n\nKatya Zaleta\n\n\n\n\n\n\n\n\n\n\n\n\nLimón persa al descubierto: sus características y los problemas que enfrenta\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2025\n\n\nKatya Zaleta\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 25, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/2025-03-07-persa/index.html",
+    "href": "posts/2025-03-07-persa/index.html",
+    "title": "Limón persa al descubierto: sus características y los problemas que enfrenta",
+    "section": "",
+    "text": "La pregunta que consterna a todos: Muchas veces se confunde el termino de Lima persa o Limón persa, se han creado debates sobre cual uso es adecuado, es importante aclarar que lo correcto es lima, y de este fruto derivan las distintas variedades como el limón mexicano (Citrus aurantifolia) y limón persa (Citrus latifolia), que este ultimo tambien se le conoce con distrintos nombres como: Limon tahiti, limon sin semillas. No hay problema con usar uno y otro, sin embargo lima persa seria lo correcto.\n\nEl gran significado económico en México\nLa lima persa (Citrus latifolia T.) es un cultivo perenne de larga vida hortícola. A nivel internacional, una actividad que genera parte importante de los empleos del sector agrícola nacional y una fuerte derrama económica de comercio internacional, es la citricultura (López-Hernández et al., 2019). En México, el cierre de la producción agrícola de 2023, mostró que se ha sembrado un total de 113,194.10 ha de limón persa y de estas, se han cosechado 106,988.24 ha, las cuales producen 1,634,224.97 toneladas por año, con un rendimiento promedio de 15.27 toneladas por hectárea, generando un valor de 12,536,410.58 millones de pesos mexicanos. En cuanto a la agricultura en Veracruz, aporta el 50.6 % de la producción, el municipio de Martínez de la Torre, ocupa el primer lugar con una superficie de 15,579 ha cosechadas, seguido del cultivo de naranja con 8,835 has de superficie cosechada y toronja con 2,267 ha (SIAP, 2023).\n\n\nEl Huanglongbing amenaza importante para la lima persa en Martínez de la Torre\n\nHablemos de enfermedades en cítricos\nLa mayor parte de los cítricos no están exentos de enfermedades producidas por bacterias, virus, hongos, micoplasmas y otros organismos similares, los cuales producen grandes pérdidas económicas en el área citrícola en todo el mundo (Navarro, 1979). Los microorganismos que comprenden la mayoría de los agentes fitopatógenos en el género Citrus son los hongos (Baraona & Sancho, 2000; Sáenz et al., 2019), sin embargo, la afectación se manifiesta tanto en raíces como en troncos, ramas, hojas y frutos (Zhao et al., 2015; Showler, 2017).\nVTC: Virus de la tristeza de los citricos"
+  },
+  {
+    "objectID": "posts/2025-03-07-persa/index.html#limón-o-lima",
+    "href": "posts/2025-03-07-persa/index.html#limón-o-lima",
+    "title": "Limón persa al descubierto: sus características y los problemas que enfrenta",
+    "section": "",
+    "text": "La pregunta que consterna a todos: Muchas veces se confunde el termino de Lima persa o Limón persa, se han creado debates sobre cual uso es adecuado, es importante aclarar que lo correcto es lima, y de este fruto derivan las distintas variedades como el limón mexicano (Citrus aurantifolia) y limón persa (Citrus latifolia), que este ultimo tambien se le conoce con distrintos nombres como: Limon tahiti, limon sin semillas. No hay problema con usar uno y otro, sin embargo lima persa seria lo correcto.\n\nEl gran significado económico en México\nLa lima persa (Citrus latifolia T.) es un cultivo perenne de larga vida hortícola. A nivel internacional, una actividad que genera parte importante de los empleos del sector agrícola nacional y una fuerte derrama económica de comercio internacional, es la citricultura (López-Hernández et al., 2019). En México, el cierre de la producción agrícola de 2023, mostró que se ha sembrado un total de 113,194.10 ha de limón persa y de estas, se han cosechado 106,988.24 ha, las cuales producen 1,634,224.97 toneladas por año, con un rendimiento promedio de 15.27 toneladas por hectárea, generando un valor de 12,536,410.58 millones de pesos mexicanos. En cuanto a la agricultura en Veracruz, aporta el 50.6 % de la producción, el municipio de Martínez de la Torre, ocupa el primer lugar con una superficie de 15,579 ha cosechadas, seguido del cultivo de naranja con 8,835 has de superficie cosechada y toronja con 2,267 ha (SIAP, 2023).\n\n\nEl Huanglongbing amenaza importante para la lima persa en Martínez de la Torre\n\nHablemos de enfermedades en cítricos\nLa mayor parte de los cítricos no están exentos de enfermedades producidas por bacterias, virus, hongos, micoplasmas y otros organismos similares, los cuales producen grandes pérdidas económicas en el área citrícola en todo el mundo (Navarro, 1979). Los microorganismos que comprenden la mayoría de los agentes fitopatógenos en el género Citrus son los hongos (Baraona & Sancho, 2000; Sáenz et al., 2019), sin embargo, la afectación se manifiesta tanto en raíces como en troncos, ramas, hojas y frutos (Zhao et al., 2015; Showler, 2017).\nVTC: Virus de la tristeza de los citricos"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   }
 ]

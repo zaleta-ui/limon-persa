@@ -20,6 +20,7 @@ date-format: full
 bibliography: references.bib
 format: 
   typst: default
+  html: default
   academic-typst:
     section-numbering: "1.1.1"
     font-paths: ["./static/fonts"]

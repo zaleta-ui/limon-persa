@@ -10,13 +10,13 @@ La pregunta que consterna a todos: Muchas veces se confunde el termino de Lima p
 
 ![](Lima%20persa.jpg){width="440"}
 
-El gran significado económico en México
+### El gran significado económico en México
 
 La lima persa (*Citrus latifolia* T.) es un cultivo perenne de larga vida hortícola. A nivel internacional, una actividad que genera parte importante de los empleos del sector agrícola nacional y una fuerte derrama económica de comercio internacional, es la citricultura (López-Hernández et al., 2019). En México, el cierre de la producción agrícola de 2023, mostró que se ha sembrado un total de 113,194.10 ha de limón persa y de estas, se han cosechado 106,988.24 ha, las cuales producen 1,634,224.97 toneladas por año, con un rendimiento promedio de 15.27 toneladas por hectárea, generando un valor de 12,536,410.58 millones de pesos mexicanos. En cuanto a la agricultura en Veracruz, aporta el 50.6 % de la producción, el municipio de Martínez de la Torre, ocupa el primer lugar con una superficie de 15,579 ha cosechadas, seguido del cultivo de naranja con 8,835 has de superficie cosechada y toronja con 2,267 ha (SIAP, 2023).
 
 ![](/posts/welcome/Partes%20del%20arbol.jpg){width="350"}
 
-::: {style="font-size:50%;color:green; font-family: herlevtica;font-size:44px;"}
+::: {style="font-size:50%;color:green; font-family: Times new roman;font-size:25px;"}
 **El Huanglongbing amenaza importante para la lima persa en Martínez de la Torre**
 :::
 
@@ -25,7 +25,3 @@ La lima persa (*Citrus latifolia* T.) es un cultivo perenne de larga vida hortí
 La mayor parte de los cítricos no están exentos de enfermedades producidas por bacterias, virus, hongos, micoplasmas y otros organismos similares, los cuales producen grandes pérdidas económicas en el área citrícola en todo el mundo (Navarro, 1979). Los microorganismos que comprenden la mayoría de los agentes fitopatógenos en el género Citrus son los hongos (Baraona & Sancho, 2000; Sáenz et al., 2019), sin embargo, la afectación se manifiesta tanto en raíces como en troncos, ramas, hojas y frutos (Zhao et al., 2015; Showler, 2017).
 
 VTC: Virus de la tristeza de los citricos
- 
-
-
-

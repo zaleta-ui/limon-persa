@@ -1,0 +1,26 @@
+---
+title: "My project"
+format:
+  revealjs: 
+    footer: "[inicio](index.qmd)"
+
+  pptx: default
+ 
+---
+
+## primera diapo
+
+## 
+
+![](posts/1605/Sarna de los citricos.jpg)
+
+
+
+## La Sarna de los citricos
+
+Es una enfermedad fungica provocada por el hongo *Elsinoe australis*
+
+## cuadro 
+
+
+
